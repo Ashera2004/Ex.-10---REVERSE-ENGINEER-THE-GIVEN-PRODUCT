@@ -1,11 +1,9 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 28/11/2024
 
-## AIM: 
-### To reverse engineering the product and prototyping the same in 3D printer.
+## AIM: To reverse engineering the product and prototyping the same in 3D printer.
 
-## REQUIREMENTS:
 ### ●	CURA 4.0 Software
 ### ●	 Autodesk Fusion 360
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
@@ -31,12 +29,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![image](https://github.com/Ashera2004/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/blob/main/77105SL11_1.jpg)
 ### Output:
+![image](https://github.com/Ashera2004/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/blob/main/watch%20dial.jpg)
 
-
-### Name:
-### Register Number:
+### Name: A S Siddarth
+### Register Number: 24010669
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
